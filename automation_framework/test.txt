@@ -1,3 +1,5 @@
-fsdfsdgsghsdfhgdsfhghfg
-sgfdgdsfgdfsgdsf
-sdfgdfsgsdf
+1. git status
+2. git add (file)
+3. git status
+4. git commit -m "des"
+5. git push --set-upstream origin "branch_name"
